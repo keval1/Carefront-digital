@@ -1,0 +1,8 @@
+{
+  "name": "Carefront | Digital Commerce & Automation for Healthcare",
+  "description": "Carefront is the digital commerce and front-office automation platform for elective healthcare practices, combining high-converting patient storefronts with back-office AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
